@@ -1,4 +1,4 @@
-# hello_canvas
+# hexagonal-canvas
 Created with CodeSandbox
 
 [DEMO](https://z660b.csb.app/)
