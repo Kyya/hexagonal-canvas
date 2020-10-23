@@ -1,2 +1,2 @@
-# hexagonal-canvas
+# hello_canvas
 Created with CodeSandbox
